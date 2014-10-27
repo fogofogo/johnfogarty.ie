@@ -2,26 +2,25 @@
 <html lang="en" >
 <head>
     <meta charset="utf-8">
-    <title>My HTML File</title>
+    <title>John Fogarty - Front-end developer in London (AngularJS, Javascript,  HTML5, CSS3, SASS, LESS, ASP.net, C#, PHP)</title>
     <link rel="stylesheet" href="assets/css/style.css">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:700,400' rel='stylesheet' type='text/css'>
 </head>
-<body ng-app="webApp">
+<body ng-app="portfolioApp">
 
-<p>Nothing here {{'yet' + '!'}}</p>
 
-<section class="wrapper">
 
     <div ng-include='"templates/header.html"'></div>
     <div ng-view></div>
     <div ng-include='"templates/footer.html"'></div>
 
-</section>
+
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.18/angular.min.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.18/angular-route.min.js"></script>
-<script src="js/main.js"></script>
-
+<script src="js/app.js"></script>
+<script src="js/controllers.js"></script>
 </body>
 
 </html>

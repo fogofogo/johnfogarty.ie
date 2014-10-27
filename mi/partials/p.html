@@ -1,21 +1,12 @@
-<div class="row">
-
-    <div class="column-10">
+<div class="row" ng-controller="PortfolioListCtrl">
+    <p>Total number of phones: {{portfolioItems.length}}</p>
+      <div class="column-10">
         <ul>
-            <li>
-                <span>No. 1</span>
-                <p>
-                    Title
-                </p>
-            </li>
-            <li>
-                <span>No. 2</span>
-                <p>
-                    Title
-                </p>
+            <li ng-repeat="portfolioItem in portfolioItems">
+                <a href="#/portfolio/{{portfolioItem.portfolioId}}" class="thumb"><!--<img ng-src="{{portfolioItem.imageUrl}}"> --></a>
+                <a href="#/portfolio/{{portfolioItem.portfolioId}}">{{portfolioItem.name}}</a>
+                <p>{{portfolioItem.snippet}}</p>
             </li>
         </ul>
     </div>
-    <div class="column-2"><span>BL</span></div>
-
 </div>

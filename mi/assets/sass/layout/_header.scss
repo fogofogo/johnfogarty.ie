@@ -1,0 +1,22 @@
+header div, header p {
+  width: 300px;
+  float: left;
+  display: inline;
+  margin-left: 20px;
+  min-height: 87px;
+  padding-top: 30px;
+  border: 1px solid #5f5650;
+  border-width: 1px 0;
+}
+
+
+header, #projects, section, footer {
+  max-width: 960px;
+  margin: 0 auto;
+}
+html{font-size: 62.5%;}
+
+body{
+  padding: 30px 0;
+  background: url('../img/bg.png') center top repeat;
+}
