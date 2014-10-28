@@ -24,7 +24,22 @@ portfolioControllers.controller('PortfolioListCtrl', ['$scope', '$http',
         });
     }]);
 
-portfolioControllers.controller('PortfolioDetailCtrl', ['$scope', '$routeParams',
+/* portfolioControllers.controller('PortfolioDetailCtrl', ['$scope', '$routeParams',
     function($scope, $routeParams) {
         $scope.portfolioId = $routeParams.portfolioId;
+    }]);
+
+    */
+
+portfolioControllers.controller('PortfolioDetailCtrl', ['$scope', '$routeParams', '$http', '$filter',
+    function($scope, $routeParams, $http, $filter) {
+
+        $http.get('js/portfolio/portfolio.json').success(function(data) {
+
+           // $scope.portfolioItem = data;
+
+            var result = $filter('filter')(data, {portfolioId:$routeParams.portfolioId})[0];
+
+            $scope.portfolioItem = result;
+        });
     }]);
