@@ -1,3 +1,14 @@
-<div ng-controller="PortfolioDetailCtrl">
-TBD: detail view for <span >{{portfolioItem.snippet}}</span>
+<div class="container row clear" ng-controller="PortfolioDetailCtrl">
+    <div class="col col-4 tablet-col-1-2 mobile-full">
+        <p>{{portfolioItem.name}}</p>
+        <p>{{portfolioItem.description}}</p>
+        <ul>
+            <li ng-repeat="technology in portfolioItem.technologies">{{technology}}</li>
+        </ul>
+    </div>
+    <div class="col col-8 tablet-col-1-2 mobile-full">
+        <ul>
+            <li ng-repeat="imageurl in portfolioItem.ImageUrls">{{imageurl}}</li>
+        </ul>
+    </div>
 </div>

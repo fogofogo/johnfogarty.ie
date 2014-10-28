@@ -3,9 +3,9 @@
         "portfolioId": "opentable",
         "defaultImageUrl": "pic.jpg",
         "ImageUrls": [
-            "pic.jpg",
-            "pic.jpg",
-            "pic.jpg"
+            "1pic.jpg",
+            "2pic.jpg",
+            "3pic.jpg"
         ],
         "technologies": [
             "HTML5",
