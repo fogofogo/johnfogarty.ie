@@ -1384,12 +1384,12 @@ textarea {
     page-break-after: avoid;
   }
 }
-.portfolio-item img {
+.portfolio-item img, .portfolio-image img {
   width: 100%;
   height: auto;
 }
 @media \0screen {
-  .portfolio-item img {
+  .portfolio-item img, .portfolio-image img {
     width: auto;
     /* for ie 8 */
   }

@@ -6,9 +6,9 @@
             <li ng-repeat="technology in portfolioItem.technologies">{{technology}}</li>
         </ul>
     </div>
-    <div class="col col-8 tablet-col-1-2 mobile-full">
+    <div class="col col-8 tablet-col-1-2 mobile-full portfolio-image">
         <ul>
-            <li ng-repeat="imageurl in portfolioItem.ImageUrls">{{imageurl}}</li>
+            <li ng-repeat="imageUrl in portfolioItem.ImageUrls"><img ng-src="{{imageUrl}}"></li>
         </ul>
     </div>
 </div>

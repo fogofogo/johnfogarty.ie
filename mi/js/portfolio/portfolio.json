@@ -3,7 +3,7 @@
         "portfolioId": "opentable",
         "defaultImageUrl": "pic.jpg",
         "ImageUrls": [
-            "1pic.jpg",
+            "assets/img/blank.jpeg",
             "2pic.jpg",
             "3pic.jpg"
         ],
