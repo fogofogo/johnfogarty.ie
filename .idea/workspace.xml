@@ -23,28 +23,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mi/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="7" selection-start="500" selection-end="500" vertical-scroll-proportion="0.39115646" vertical-offset="0" max-vertical-offset="882">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mi/assets/sass/style.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="970" selection-end="970" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="435">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="_global.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_global.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="0" selection-start="941" selection-end="941" vertical-scroll-proportion="-14.375" vertical-offset="180" max-vertical-offset="1845">
+            <state line="35" column="0" selection-start="941" selection-end="941" vertical-scroll-proportion="19.208334" vertical-offset="986" max-vertical-offset="1845">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_grid.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_grid.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="40.0" vertical-offset="960" max-vertical-offset="3990">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_helpers.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_helpers.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.45833334" vertical-offset="11" max-vertical-offset="870">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_lists.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_lists.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="630">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_mixins.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_mixins.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="405">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_mobile-grid.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_mobile-grid.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="2115">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_print.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_print.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="360">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_resets.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_resets.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="195">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_tables.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_tables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="645">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_tablet-grid.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_tablet-grid.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="203" column="33" selection-start="5930" selection-end="5930" vertical-scroll-proportion="0.62863797" vertical-offset="2505" max-vertical-offset="4290">
               <folding />
             </state>
           </provider>
@@ -86,8 +149,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="332" />
-    <option name="y" value="137" />
+    <option name="x" value="15" />
+    <option name="y" value="41" />
     <option name="width" value="1341" />
     <option name="height" value="1024" />
   </component>
@@ -386,7 +449,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="332" y="137" width="1341" height="1024" extended-state="0" />
+    <frame x="15" y="41" width="1341" height="1024" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -516,6 +579,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mi/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="7" selection-start="500" selection-end="500" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mi/assets/sass/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="970" selection-end="970" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mi/assets/sass/_tablet-styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="180" selection-end="180" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mi/assets/sass/_mobile-styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="180" selection-end="180" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="135">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mi/assets/sass/_desktop-styles.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="0" selection-start="181" selection-end="181" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="135">
@@ -530,37 +621,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mi/assets/sass/_mobile-styles.scss">
+    <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_buttons.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="180" selection-end="180" vertical-scroll-proportion="0.05102041" vertical-offset="0" max-vertical-offset="882">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mi/assets/sass/_tablet-styles.scss">
+    <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_code.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="180" selection-end="180" vertical-scroll-proportion="0.05102041" vertical-offset="0" max-vertical-offset="882">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="883">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_forms.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="30.458334" vertical-offset="731" max-vertical-offset="1590">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_global.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="941" selection-end="941" vertical-scroll-proportion="-14.375" vertical-offset="180" max-vertical-offset="1845">
+        <state line="35" column="0" selection-start="941" selection-end="941" vertical-scroll-proportion="19.208334" vertical-offset="986" max-vertical-offset="1845">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mi/assets/sass/style.scss">
+    <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_grid.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="970" selection-end="970" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="435">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="40.0" vertical-offset="960" max-vertical-offset="3990">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mi/home.html">
+    <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_helpers.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="7" selection-start="500" selection-end="500" vertical-scroll-proportion="0.39115646" vertical-offset="0" max-vertical-offset="882">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.45833334" vertical-offset="11" max-vertical-offset="870">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_lists.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="883">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="883">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_mobile-grid.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2115">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_print.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="883">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_resets.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="883">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_tables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="883">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mi/assets/sass/base/_tablet-grid.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="203" column="33" selection-start="5930" selection-end="5930" vertical-scroll-proportion="0.62863797" vertical-offset="2505" max-vertical-offset="4290">
           <folding />
         </state>
       </provider>
