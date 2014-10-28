@@ -1,0 +1,284 @@
+[
+    {
+        "portfolioId": "opentable",
+        "defaultImageUrl": "pic.jpg",
+        "ImageUrls": [
+            "pic.jpg",
+            "pic.jpg",
+            "pic.jpg"
+        ],
+        "technologies": [
+            "HTML5",
+            "SASS",
+            "Javascript",
+            "BackboneJS",
+            "ASP.NET MVC",
+            "Grunt, Bower, GIT",
+            "Foundation"
+        ],
+        "name": "OpenTable",
+        "snippet": "Front-end development for the search channel of the main consumer website.",
+        "description": "Working with the OpenTable design team who were based in San Francisco, I was responsible for applying new brand and design to the search channel of main consumer website. Using the existing back-end code, I refactored the front-end markup to enhance performance and replaced the LESS css with SASS.",
+        "link": ""
+    },
+    {
+        "portfolioId": "viagogo",
+        "defaultImageUrl": "img/phones/motorola-atrix-4g.0.jpg",
+        "ImageUrls": [
+            "pic.jpg",
+            "pic.jpg",
+            "pic.jpg"
+        ],
+        "technologies": [
+            "HTML5",
+            "LESS",
+            "Javascript, jQuery",
+            "ASP.NET MVC"
+        ],
+        "name": "Viagogo",
+        "snippet": "New responsive website for the main Viagogo Consumer website.",
+        "description": "Working with the design team, I applied the new design to the existing back-end code base, switching from web forms to MVC. The new front-end code was fully responsive using HTML5 and CSS3 (LESS).",
+        "link": ""
+    },
+    {
+        "portfolioId": "viagogo-email-builder-tool",
+        "defaultImageUrl": "img/phones/dell-streak-7.0.jpg",
+        "ImageUrls": [
+            "pic.jpg",
+            "pic.jpg",
+            "pic.jpg"
+        ],
+        "technologies": [
+            "HTML5",
+            "LESS",
+            "Javascript",
+            "AngularJS",
+            "ASP.NET MVC"
+        ],
+        "name": "Viagogo email builder tool",
+        "snippet": "Drag and drop email builder tool using AngularJS and ASP.net.",
+        "description": "To assist the marketing team with email campaigns, I built an easy-to-use email builder tool. Users could drag and drop templates, enter text and publish/send HTML emails. Originally I built the tool using javascript and jQuery, but replaced more of this with AngularJS to reduce the amount of DOM dependant hooks and to convert it to a single page application.",
+        "link": ""
+    },
+    {
+        "portfolioId": "towergate-insurance",
+        "defaultImageUrl": "img/phones/samsung-gem.0.jpg",
+        "ImageUrls": [
+            "pic.jpg",
+            "pic.jpg",
+            "pic.jpg"
+        ],
+        "technologies": [
+            "HTML5",
+            "SASS",
+            "Javascript",
+            "ASP.NET MVC",
+            "Grunt, Bower, GIT",
+            "Umbraco",
+            "Foundation"
+        ],
+        "name": "Towergate Insurance",
+        "snippet": "AngularJS and SEO friendly paging system with Umbraco.",
+        "description": "Towergate rely heavily on organic traffic from search engines. The articles in the blog section of the website where not being indexed due to a lazy load. I designed and built a paging system of the site, which required a serious amount of refracting with Umbraco's core XML and XSLT files. I also built a javascript Type Ahead function for the homepage search bar, and javascript email function for multiple domains.",
+        "link": ""
+    },
+    {
+        "portfolioId": "tagggit",
+        "defaultImageUrl": "img/phones/nexus-s.0.jpg",
+        "ImageUrls": [
+            "pic.jpg",
+            "pic.jpg",
+            "pic.jpg"
+        ],
+        "technologies": [
+            "HTML",
+            "CSS3",
+            "Javascript",
+            "ASP.NET Forms"
+        ],
+        "name": "Tagggit",
+        "snippet": "Personal project: Location based social network.",
+        "description": "In 2007, A friend and I built a location based social network called Tagggit. We released the application on Symbian mobile phones and a website. The application allowed users to tag/search places of interest and to share these with other users or friends. Even though we had over 2000 active users, we decided to close it down due to lack of funding as a result of the 2008 global economic crash.",
+        "link": ""
+    },
+    {
+        "portfolioId": "tes-registration",
+        "defaultImageUrl": "img/phones/nexus-s.0.jpg",
+        "ImageUrls": [
+            "pic.jpg",
+            "pic.jpg",
+            "pic.jpg"
+        ],
+        "technologies": [
+            "HTML5",
+            "SASS",
+            "Javascript",
+            "ASP.NET MVC",
+            "GIT",
+            "Bootstrap"
+        ],
+        "name": "TES Registration",
+        "snippet": "New registration page design and development.",
+        "description": "I designed an built a new user login and registration system system for TES. The goal was to create an easy journey for the user in order to obtain more registrations.",
+        "link": ""
+    },
+    {
+        "portfolioId": "share-my-lesson",
+        "defaultImageUrl": "img/phones/nexus-s.0.jpg",
+        "ImageUrls": [
+            "pic.jpg",
+            "pic.jpg",
+            "pic.jpg"
+        ],
+        "technologies": [
+            "HTML5",
+            "SASS",
+            "Javascript",
+            "ASP.NET MVC",
+            "GIT",
+            "Bootstrap"
+        ],
+        "name": "Share My Lesson",
+        "snippet": "Front-end development for new product for TES.",
+        "description": "Taking designs and wire-frames from the design team, I coded the front-end of the new Share my lesson website.",
+        "link": ""
+    },
+    {
+        "portfolioId": "tes-connect",
+        "defaultImageUrl": "img/phones/nexus-s.0.jpg",
+        "ImageUrls": [
+            "pic.jpg",
+            "pic.jpg",
+            "pic.jpg"
+        ],
+        "technologies": [
+            "HTML5",
+            "SASS",
+            "Javascript",
+            "ASP.NET MVC",
+            "GIT"
+        ],
+        "name": "TES Connect",
+        "snippet": "Front-end development for TES community.",
+        "description": "Taking designs and wire-frames from the design team, I coded the front-end of the existing TES community website.",
+        "link": ""
+    },
+    {
+        "portfolioId": "the-world-university-rankings",
+        "defaultImageUrl": "img/phones/nexus-s.0.jpg",
+        "ImageUrls": [
+            "pic.jpg",
+            "pic.jpg",
+            "pic.jpg"
+        ],
+        "technologies": [
+            "HTML5",
+            "CSS3",
+            "Javascript",
+            "PHP, Perl"
+        ],
+        "name": "THE - World University Rankings",
+        "snippet": "Preparing existing site for new rankings list.",
+        "description": "Using Perl and data stored in JSON files I was required to a light weight website that could handle high traffic volumes.",
+        "link": ""
+    },
+    {
+
+        "portfolioId": "bord-failte-irish-tourism-board",
+        "defaultImageUrl": "img/phones/nexus-s.0.jpg",
+        "ImageUrls": [
+            "pic.jpg",
+            "pic.jpg",
+            "pic.jpg"
+        ],
+        "technologies": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "Classic ASP"
+        ],
+        "name": "Bord Failte - Irish Tourism Board",
+        "snippet": "Design and frontend development for Irish tourism board.",
+        "description": "",
+        "link": ""
+    },
+    {
+        "portfolioId": "irish-railway-procurement-agency",
+        "defaultImageUrl": "img/phones/nexus-s.0.jpg",
+        "ImageUrls": [
+            "pic.jpg",
+            "pic.jpg",
+            "pic.jpg"
+        ],
+        "technologies": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "Classic ASP"
+        ],
+        "name": "Irish Railway Procurement Agency",
+        "snippet": "Design and front-end development for RPA.",
+        "description": "RPA manage Dublin's tram network LUAS as well as other rail networks. I was required to design and build the front-end for the website.",
+        "link": ""
+    },
+    {
+        "portfolioId": "urban-car-spa",
+        "defaultImageUrl": "img/phones/nexus-s.0.jpg",
+        "ImageUrls": [
+            "pic.jpg",
+            "pic.jpg",
+            "pic.jpg"
+        ],
+        "technologies": [
+            "HTML5",
+            "LESS",
+            "Javascript",
+            "Grunt, Bower, GIT",
+            "Foundation"
+        ],
+        "name": "Urban Car Spa",
+        "snippet": "Front-end development and Wordpress CMS.",
+        "description": "Front-end development and Wordpress CMS.",
+        "link": ""
+    },
+    {
+        "portfolioId": "bfresh-prototype",
+        "defaultImageUrl": "img/phones/nexus-s.0.jpg",
+        "ImageUrls": [
+            "pic.jpg",
+            "pic.jpg",
+            "pic.jpg"
+        ],
+        "technologies": [
+            "HTML5",
+            "SASS",
+            "Javascript",
+            "ASP.NET MVC",
+            "Grunt, Bower, GIT",
+            "Foundation"
+        ],
+        "name": "B-Fresh prototype",
+        "snippet": "Personal project still in development.",
+        "description": "B-fresh is an new online gaming project I am currently working on. It's still in development and hopefully will be complete this year.",
+        "link": ""
+    },
+    {
+        "portfolioId": "joy-of-bingo",
+        "defaultImageUrl": "img/phones/nexus-s.0.jpg",
+        "ImageUrls": [
+            "pic.jpg",
+            "pic.jpg",
+            "pic.jpg"
+        ],
+        "technologies": [
+            "HTML5",
+            "CSS3",
+            "Javascript",
+            "PHP"
+        ],
+        "name": "Joy Of Bingo",
+        "snippet": "Front-development using Wordpress CMS.",
+        "description": "Joy of Bingo is an online bingo community where users cna find out about promotions and competitions. I was required to build the website from PSDs and plug it into Wordpress CMS.",
+        "link": ""
+    }
+]
