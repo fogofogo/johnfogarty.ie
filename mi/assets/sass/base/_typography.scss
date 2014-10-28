@@ -1,7 +1,6 @@
 body {
-  color: $text-color;
-  font-size: $base-font-size;
-  font-family: $base-font-family;
-  font-weight: $base-font-weight;
-  line-height: 1.6;
+  color: $default-font-color;
+  font-size: $default-font-size;
+  font-family: $default-code-font-family;
+  line-height: $default-line-height;
 }

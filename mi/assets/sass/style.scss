@@ -1,16 +1,13 @@
-<<<<<<< HEAD
-@import "helpers/_variable";
-@import "helpers/_mixins";
-@import "layout/_grid";
-@import "layout/_header";
-@import "base/_reset";
-@import "base/_typography";
-=======
+
+
+
 // ==========================================================================
 // Base Stylesheet
 // ==========================================================================
 
   @import "base/_variables";    // Global Variables
+@import "base/_reset";
+@import "base/_typography";
 
   @import "base/_mixins";       // Base Mixins
   @import "base/_resets";       // General Resets
@@ -29,4 +26,12 @@
   @import "base/_tablet-grid";  // Tablet Grid
   @import "base/_mobile-grid";  // Mobile Grid
   @import "base/_print";        // Print Page Styles
->>>>>>> 9989dda34dc97007aed0a3b427c5f8d1d17ff5db
+
+
+body{
+  padding: 30px 0;
+  background: url('../img/bg.png') center top repeat;
+}
+
+
+
