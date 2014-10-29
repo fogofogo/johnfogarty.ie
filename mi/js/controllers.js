@@ -9,13 +9,9 @@ portfolioControllers.config(['$routeProvider', function ($routeProvider) {
     .otherwise("/404", {templateUrl: "partials/404.html", controller: "PageCtrl"});
 }]);
 
-/**
- * Controls all other Pages
- */
 portfolioControllers.controller('PageCtrl', function (/* $scope, $location, $http */) {
     console.log("Page Controller reporting for duty.");
 });
-
 
 portfolioControllers.controller('PortfolioListCtrl', ['$scope', '$http',
     function($scope, $http) {
@@ -30,5 +26,10 @@ portfolioControllers.controller('PortfolioDetailCtrl', ['$scope', '$routeParams'
         $http.get('js/portfolio/portfolio.json').success(function(data) {
            var result = $filter('filter')(data, {portfolioId:$routeParams.portfolioId})[0];
             $scope.portfolioItem = result;
+            $scope.mainImageUrl = result.ImageUrls[0];
         });
+
+        $scope.setImage = function(imageUrl) {
+            $scope.mainImageUrl = imageUrl;
+        }
     }]);

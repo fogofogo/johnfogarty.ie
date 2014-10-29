@@ -1,11 +1,11 @@
 [
     {
         "portfolioId": "opentable",
-        "defaultImageUrl": "pic.jpg",
         "ImageUrls": [
-            "assets/img/blank.jpeg",
-            "2pic.jpg",
-            "3pic.jpg"
+            "assets/img/1.png",
+            "assets/img/2.png",
+            "assets/img/3.png",
+            "assets/img/4.png"
         ],
         "technologies": [
             "HTML5",
@@ -23,7 +23,6 @@
     },
     {
         "portfolioId": "viagogo",
-        "defaultImageUrl": "img/phones/motorola-atrix-4g.0.jpg",
         "ImageUrls": [
             "pic.jpg",
             "pic.jpg",
@@ -42,7 +41,6 @@
     },
     {
         "portfolioId": "viagogo-email-builder-tool",
-        "defaultImageUrl": "img/phones/dell-streak-7.0.jpg",
         "ImageUrls": [
             "pic.jpg",
             "pic.jpg",
@@ -62,7 +60,6 @@
     },
     {
         "portfolioId": "towergate-insurance",
-        "defaultImageUrl": "img/phones/samsung-gem.0.jpg",
         "ImageUrls": [
             "pic.jpg",
             "pic.jpg",
@@ -84,7 +81,6 @@
     },
     {
         "portfolioId": "tagggit",
-        "defaultImageUrl": "img/phones/nexus-s.0.jpg",
         "ImageUrls": [
             "pic.jpg",
             "pic.jpg",
@@ -103,7 +99,6 @@
     },
     {
         "portfolioId": "tes-registration",
-        "defaultImageUrl": "img/phones/nexus-s.0.jpg",
         "ImageUrls": [
             "pic.jpg",
             "pic.jpg",
@@ -124,7 +119,6 @@
     },
     {
         "portfolioId": "share-my-lesson",
-        "defaultImageUrl": "img/phones/nexus-s.0.jpg",
         "ImageUrls": [
             "pic.jpg",
             "pic.jpg",
@@ -145,7 +139,6 @@
     },
     {
         "portfolioId": "tes-connect",
-        "defaultImageUrl": "img/phones/nexus-s.0.jpg",
         "ImageUrls": [
             "pic.jpg",
             "pic.jpg",
@@ -165,7 +158,6 @@
     },
     {
         "portfolioId": "the-world-university-rankings",
-        "defaultImageUrl": "img/phones/nexus-s.0.jpg",
         "ImageUrls": [
             "pic.jpg",
             "pic.jpg",
@@ -185,7 +177,6 @@
     {
 
         "portfolioId": "bord-failte-irish-tourism-board",
-        "defaultImageUrl": "img/phones/nexus-s.0.jpg",
         "ImageUrls": [
             "pic.jpg",
             "pic.jpg",
@@ -204,7 +195,6 @@
     },
     {
         "portfolioId": "irish-railway-procurement-agency",
-        "defaultImageUrl": "img/phones/nexus-s.0.jpg",
         "ImageUrls": [
             "pic.jpg",
             "pic.jpg",
@@ -223,7 +213,6 @@
     },
     {
         "portfolioId": "urban-car-spa",
-        "defaultImageUrl": "img/phones/nexus-s.0.jpg",
         "ImageUrls": [
             "pic.jpg",
             "pic.jpg",
@@ -243,7 +232,6 @@
     },
     {
         "portfolioId": "bfresh-prototype",
-        "defaultImageUrl": "img/phones/nexus-s.0.jpg",
         "ImageUrls": [
             "pic.jpg",
             "pic.jpg",
@@ -264,7 +252,6 @@
     },
     {
         "portfolioId": "joy-of-bingo",
-        "defaultImageUrl": "img/phones/nexus-s.0.jpg",
         "ImageUrls": [
             "pic.jpg",
             "pic.jpg",

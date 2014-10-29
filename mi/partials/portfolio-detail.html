@@ -7,8 +7,9 @@
         </ul>
     </div>
     <div class="col col-8 tablet-col-1-2 mobile-full portfolio-image">
-        <ul>
-            <li ng-repeat="imageUrl in portfolioItem.ImageUrls"><img ng-src="{{imageUrl}}"></li>
-        </ul>
+        <img ng-src="{{mainImageUrl}}">
     </div>
+    <ul class="phone-thumbs">
+        <li ng-repeat="imageUrl in portfolioItem.ImageUrls"><img ng-src="{{imageUrl}}" ng-click="setImage(imageUrl)"></li>
+    </ul>
 </div>
