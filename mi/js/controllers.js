@@ -3,7 +3,7 @@ var portfolioControllers = angular.module('portfolioControllers', []);
 /* Configure the routes */
 portfolioControllers.config(['$routeProvider', function ($routeProvider) {
     $routeProvider
-    .when("/", {templateUrl: "partials/h.html", controller: "PageCtrl"})
+    .when("/", {templateUrl: "partials/p.html", controller: "PageCtrl"})
     .when("/a", {templateUrl: "partials/a.html", controller: "PageCtrl"})
     .when("/p", {templateUrl: "partials/p.html", controller: "PageCtrl"})
     .otherwise("/404", {templateUrl: "partials/404.html", controller: "PageCtrl"});

@@ -1,6 +1,5 @@
 
 
-
 // ==========================================================================
 // Base Stylesheet
 // ==========================================================================
@@ -10,6 +9,7 @@
   @import "base/_resets";       // General Resets
 
   @import "base/_global";       // Global Typography and Headings
+  @import "base/font/font-awesome";       // Font icons
   @import "base/_lists";        // Unordered Lists, Ordered Lists and Navigation
   @import "base/_blockquotes";  // Blockquotes
   @import "base/_code";         // Code
@@ -51,6 +51,16 @@ ul.phone-thumbs img {
 
 ul.phone-thumbs img:hover {
   cursor: pointer;
+}
+
+.header-cont {
+    float: left;
+    display: inline;
+    min-height: 87px;
+    padding-top: 30px;
+    border-top: 1px solid #ffffff;
+    border-width: 1px 0;
+    width: 100%;
 }
 
 
