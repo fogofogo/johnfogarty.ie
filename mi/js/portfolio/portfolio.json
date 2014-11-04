@@ -1,7 +1,7 @@
 [
     {
         "portfolioId": "opentable",
-        "defaultImage": "assets/img/pt/ot1.png",
+        "defaultImage": "assets/img/pt/ot1-front.png",
         "ImageUrls": [
             "assets/img/pt/ot1.png",
             "assets/img/pt/ot-2.png",
@@ -24,7 +24,7 @@
     },
     {
         "portfolioId": "viagogo",
-        "defaultImage": "assets/img/pt/v-1.png",
+        "defaultImage": "assets/img/pt/v-1-front.png",
         "ImageUrls": [
             "assets/img/pt/v-1.png",
             "assets/img/pt/v-2.png",
@@ -43,7 +43,7 @@
     },
     {
         "portfolioId": "viagogo-email-builder-tool",
-        "defaultImage": "assets/img/pt/vem-1.png",
+        "defaultImage": "assets/img/pt/vem-1-front.png",
         "ImageUrls": [
             "assets/img/pt/vem-1.png",
             "assets/img/pt/vem-2.png"
@@ -62,7 +62,7 @@
     },
     {
         "portfolioId": "towergate-insurance",
-        "defaultImage": "assets/img/pt/tw-1.png",
+        "defaultImage": "assets/img/pt/tw-1-front.png",
         "ImageUrls": [
             "assets/img/pt/tw-1.png",
             "assets/img/pt/tw-2.png",
@@ -85,7 +85,7 @@
     },
     {
         "portfolioId": "tagggit",
-        "defaultImage": "assets/img/pt/tt-1.jpg",
+        "defaultImage": "assets/img/pt/tt-front.jpg",
         "ImageUrls": [
             "assets/img/pt/tt-1.jpg",
             "assets/img/pt/tt-2.jpg",
@@ -105,7 +105,7 @@
     },
     {
         "portfolioId": "tes-registration",
-        "defaultImage": "assets/img/pt/tes-1.png",
+        "defaultImage": "assets/img/pt/tes-1-front.png",
         "ImageUrls": [
             "assets/img/pt/tes-1.png",
             "assets/img/pt/tes-2.jpg"
@@ -125,7 +125,7 @@
     },
     {
         "portfolioId": "share-my-lesson",
-        "defaultImage": "assets/img/pt/sml-1.png",
+        "defaultImage": "assets/img/pt/sml-front.png",
         "ImageUrls": [
             "assets/img/pt/sml-1.png",
             "assets/img/pt/sml-2.png"
@@ -145,7 +145,7 @@
     },
     {
         "portfolioId": "tes-connect",
-        "defaultImage": "assets/img/pt/tes-c-1.png",
+        "defaultImage": "assets/img/pt/tes-c-front.png",
         "ImageUrls": [
             "assets/img/pt/tes-c-1.png",
             "assets/img/pt/tes-c-2.png",
@@ -166,7 +166,7 @@
     },
     {
         "portfolioId": "the-world-university-rankings",
-        "defaultImage": "assets/img/pt/wur-1.png",
+        "defaultImage": "assets/img/pt/wur-front.png",
         "ImageUrls": [
             "assets/img/pt/wur-1.png",
             "assets/img/pt/wur-2.png",
@@ -186,7 +186,7 @@
     {
 
         "portfolioId": "bord-failte-irish-tourism-board",
-        "defaultImage": "assets/img/pt/itb-1.jpg",
+        "defaultImage": "assets/img/pt/itb-front.jpg",
         "ImageUrls": [
             "assets/img/pt/itb-1.jpg"
         ],
@@ -203,7 +203,7 @@
     },
     {
         "portfolioId": "irish-railway-procurement-agency",
-        "defaultImage": "assets/img/pt/rpa-1.jpg",
+        "defaultImage": "assets/img/pt/rpa-front.jpg",
         "ImageUrls": [
             "assets/img/pt/rpa-1.jpg"
         ],
@@ -220,7 +220,7 @@
     },
     {
         "portfolioId": "urban-car-spa",
-        "defaultImage": "assets/img/pt/ucs-1.jpg",
+        "defaultImage": "assets/img/pt/ucs-front.jpg",
         "ImageUrls": [
             "assets/img/pt/ucs-1.jpg",
             "assets/img/pt/ucs-2.png"
@@ -239,7 +239,7 @@
     },
     {
         "portfolioId": "bfresh-prototype",
-        "defaultImage": "assets/img/pt/bf-1.jpg",
+        "defaultImage": "assets/img/pt/bf-front.jpg",
         "ImageUrls": [
             "assets/img/pt/bf-1.jpg",
             "assets/img/pt/bf-2.png"
@@ -259,7 +259,7 @@
     },
     {
         "portfolioId": "joy-of-bingo",
-        "defaultImage": "assets/img/pt/job-1.jpg",
+        "defaultImage": "assets/img/pt/job-front.jpg",
         "ImageUrls": [
             "assets/img/pt/job-1.jpg",
             "assets/img/pt/job-2.png",
