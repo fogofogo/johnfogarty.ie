@@ -2735,6 +2735,18 @@ textarea {
   margin-left: 20px;
 }
 
+.titles {
+  text-align: center;
+}
+
+.titles {
+  text-align: center;
+}
+
+.titles {
+  text-align: left;
+}
+
 .section {
   position: relative;
 }
@@ -3018,6 +3030,10 @@ textarea {
 
 .no-padding {
   padding: 0;
+}
+
+.titles {
+  text-align: left;
 }
 
 @media only screen and (min-width: 740px) and (max-width: 959px) {
@@ -3345,6 +3361,10 @@ textarea {
   .show-tablet {
     display: block;
   }
+
+  .titles {
+    text-align: center;
+  }
 }
 @media only screen and (max-width: 739px) {
   .container, .mobile-container {
@@ -3519,6 +3539,10 @@ textarea {
   .show-mobile {
     display: block;
   }
+
+  .titles {
+    text-align: center;
+  }
 }
 @media print {
   * {
@@ -3610,13 +3634,17 @@ ul.phone-thumbs img:hover {
   width: 100%;
 }
 
-a.portfolio {
+a.portfolio, h3 {
   text-transform: uppercase;
-  font-weight: 800;
+  font-weight: 700;
   font-size: 18px;
   letter-spacing: -1px;
-  margin: 10px 0px;
   display: block;
+  color: #f14e32;
+}
+
+a.portfolio {
+  margin: 10px 0px;
 }
 
 dl {
@@ -3632,7 +3660,7 @@ dl dt {
   float: left;
   display: inline;
   clear: left;
-  width: 100px;
+  width: 80px;
   font-size: 11px;
   font-weight: bold;
   text-transform: uppercase;
@@ -3692,6 +3720,10 @@ dl > *:nth-child(1n+3) {
   margin-bottom: 2em;
   background: #dededa;
   padding: 10px;
+}
+
+h2 {
+  font-size: 1rem;
 }
 
 /*# sourceMappingURL=style.css.map */

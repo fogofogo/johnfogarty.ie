@@ -10,16 +10,11 @@
 
             <dl>
                 <dt>Role</dt>
-                <dd>Lead Front-end Developer</dd>
+                <dd>{{portfolioItem.role}}</dd>
                 <dt>Tech</dt>
                 <dd>
                     <ul>
-                        <li>HTML5</li>
-                        <li>CSS3</li>
-                        <li>jQuery</li>
-                        <li>PHP5</li>
-                        <li>AJAX</li>
-                        <li>JSON</li>
+                        <li ng-repeat="technology in portfolioItem.technologies">{{technology}}</li>
                     </ul>
                 </dd>
             </dl>

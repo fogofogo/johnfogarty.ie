@@ -1,15 +1,20 @@
 <div class="container row clear" ng-controller="PortfolioDetailCtrl">
     <div class="col col-4 tablet-col-1-2 mobile-full">
-        <p>{{portfolioItem.name}}</p>
+        <h3>{{portfolioItem.name}}</h3>
         <p>{{portfolioItem.description}}</p>
         <ul>
             <li ng-repeat="technology in portfolioItem.technologies">{{technology}}</li>
         </ul>
     </div>
     <div class="col col-8 tablet-col-1-2 mobile-full portfolio-image">
-        <img ng-src="{{mainImageUrl}}">
+        <div>
+            <img ng-src="{{mainImageUrl}}">
+        </div>
+
+        <div>
+            <ul class="phone-thumbs">
+                <li ng-repeat="imageUrl in portfolioItem.ImageUrls"><img ng-src="{{imageUrl}}" ng-click="setImage(imageUrl)"></li>
+            </ul>
+        </div>
     </div>
-    <ul class="phone-thumbs">
-        <li ng-repeat="imageUrl in portfolioItem.ImageUrls"><img ng-src="{{imageUrl}}" ng-click="setImage(imageUrl)"></li>
-    </ul>
 </div>

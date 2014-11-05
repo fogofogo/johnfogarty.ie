@@ -18,7 +18,11 @@
 
   @import "base/_buttons";      // Custom Base Buttons
   @import "base/_helpers";      // Custom Base Helpers
-  
+
+  @import "tablet-styles";      // Custom Base Helpers
+  @import "mobile-styles";      // Custom Base Helpers
+  @import "desktop-styles";      // Custom Base Helpers
+
   @import "base/_grid";         // Grid
   @import "base/_tablet-grid";  // Tablet Grid
   @import "base/_mobile-grid";  // Mobile Grid
@@ -62,13 +66,17 @@ ul.phone-thumbs img:hover {
     width: 100%;
 }
 
-a.portfolio{
+a.portfolio, h3{
   text-transform: uppercase;
-  font-weight: 800;
+  font-weight: 700;
   font-size: 18px;
   letter-spacing: -1px;
-  margin: 10px 0px;
   display: block;
+  color: #f14e32;
+}
+
+a.portfolio{
+  margin: 10px 0px;
 }
 
 dl {
@@ -84,7 +92,7 @@ dl dt {
   float: left;
   display: inline;
   clear: left;
-  width: 100px;
+  width: 80px;
   font-size: 11px;
   font-weight: bold;
   text-transform: uppercase;
@@ -145,4 +153,7 @@ dl>*:nth-child(1n+3) {
   padding: 10px;
 }
 
+h2{
+  font-size: 1rem;
+}
 

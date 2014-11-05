@@ -12,15 +12,14 @@
             "HTML5",
             "SASS",
             "Javascript",
-            "BackboneJS",
-            "ASP.NET MVC",
-            "Grunt, Bower, GIT",
-            "Foundation"
+            "AngularJS",
+            "ASP.NET MVC"
         ],
         "name": "OpenTable",
         "snippet": "Front-end development for the search channel of the main consumer website.",
         "description": "Working with the OpenTable design team who were based in San Francisco, I was responsible for applying new brand and design to the search channel of main consumer website. Using the existing back-end code, I refactored the front-end markup to enhance performance and replaced the LESS css with SASS.",
-        "link": ""
+        "link": "",
+        "role": "Front-end developer"
     },
     {
         "portfolioId": "viagogo",
@@ -33,13 +32,15 @@
         "technologies": [
             "HTML5",
             "LESS",
-            "Javascript, jQuery",
+            "Javascript",
+            "jQuery",
             "ASP.NET MVC"
         ],
         "name": "Viagogo",
         "snippet": "New responsive website for the main Viagogo Consumer website.",
         "description": "Working with the design team, I applied the new design to the existing back-end code base, switching from web forms to MVC. The new front-end code was fully responsive using HTML5 and CSS3 (LESS).",
-        "link": ""
+        "link": "",
+        "role": "Front-end developer"
     },
     {
         "portfolioId": "viagogo-email-builder-tool",
@@ -58,7 +59,8 @@
         "name": "Viagogo email builder",
         "snippet": "Drag and drop email builder tool using AngularJS and ASP.net.",
         "description": "To assist the marketing team with email campaigns, I built an easy-to-use email builder tool. Users could drag and drop templates, enter text and publish/send HTML emails. Originally I built the tool using javascript and jQuery, but replaced more of this with AngularJS to reduce the amount of DOM dependant hooks and to convert it to a single page application.",
-        "link": ""
+        "link": "",
+        "role": "Front-end developer"
     },
     {
         "portfolioId": "towergate-insurance",
@@ -74,14 +76,13 @@
             "SASS",
             "Javascript",
             "ASP.NET MVC",
-            "Grunt, Bower, GIT",
-            "Umbraco",
-            "Foundation"
+            "Umbraco"
         ],
         "name": "Towergate Insurance",
         "snippet": "AngularJS and SEO friendly paging system with Umbraco.",
         "description": "Towergate rely heavily on organic traffic from search engines. The articles in the blog section of the website where not being indexed due to a lazy load. I designed and built a paging system of the site, which required a serious amount of refracting with Umbraco's core XML and XSLT files. I also built a javascript Type Ahead function for the homepage search bar, and javascript email function for multiple domains.",
-        "link": ""
+        "link": "",
+        "role": "Lead front-end developer"
     },
     {
         "portfolioId": "tagggit",
@@ -96,12 +97,14 @@
             "HTML",
             "CSS3",
             "Javascript",
+            "jQuery",
             "ASP.NET Forms"
         ],
         "name": "Tagggit",
         "snippet": "Personal project: Location based social network.",
         "description": "In 2007, A friend and I built a location based social network called Tagggit. We released the application on Symbian mobile phones and a website. The application allowed users to tag/search places of interest and to share these with other users or friends. Even though we had over 2000 active users, we decided to close it down due to lack of funding as a result of the 2008 global economic crash.",
-        "link": ""
+        "link": "",
+        "role": "Design & front-end developer"
     },
     {
         "portfolioId": "tes-registration",
@@ -114,14 +117,13 @@
             "HTML5",
             "SASS",
             "Javascript",
-            "ASP.NET MVC",
-            "GIT",
-            "Bootstrap"
+            "ASP.NET MVC"
         ],
         "name": "TES Registration",
         "snippet": "New registration page design and development.",
         "description": "I designed an built a new user login and registration system system for TES. The goal was to create an easy journey for the user in order to obtain more registrations.",
-        "link": ""
+        "link": "",
+        "role": "Lead front-end developer"
     },
     {
         "portfolioId": "share-my-lesson",
@@ -134,14 +136,13 @@
             "HTML5",
             "SASS",
             "Javascript",
-            "ASP.NET MVC",
-            "GIT",
-            "Bootstrap"
+            "ASP.NET MVC"
         ],
         "name": "Share My Lesson",
         "snippet": "Front-end development for new product for TES.",
         "description": "Taking designs and wire-frames from the design team, I coded the front-end of the new Share my lesson website.",
-        "link": ""
+        "link": "",
+        "role": "Lead front-end developer"
     },
     {
         "portfolioId": "tes-connect",
@@ -155,14 +156,13 @@
             "HTML5",
             "SASS",
             "Javascript",
-            "ASP.NET MVC",
-            "GIT",
-            "Bootstrap"
+            "ASP.NET MVC"
         ],
         "name": "TES Connect",
         "snippet": "Front-end development for TES community.",
         "description": "Taking designs and wire-frames from the design team, I coded the front-end of the existing TES community website.",
-        "link": ""
+        "link": "",
+        "role": "Lead front-end developer"
     },
     {
         "portfolioId": "the-world-university-rankings",
@@ -176,12 +176,14 @@
             "HTML5",
             "CSS3",
             "Javascript",
-            "PHP, Perl"
+            "jQuery",
+            "PHP"
         ],
         "name": "World University Rankings",
         "snippet": "Preparing existing site for new rankings list.",
         "description": "Using Perl and data stored in JSON files I was required to a light weight website that could handle high traffic volumes.",
-        "link": ""
+        "link": "",
+        "role": "Lead front-end developer"
     },
     {
 
@@ -199,7 +201,8 @@
         "name": "Irish Tourism Board",
         "snippet": "Design and frontend development for Irish tourism board.",
         "description": "",
-        "link": ""
+        "link": "",
+        "role": "Technical designer"
     },
     {
         "portfolioId": "irish-railway-procurement-agency",
@@ -216,7 +219,8 @@
         "name": "Irish Railway Procurement",
         "snippet": "Design and front-end development for RPA.",
         "description": "RPA manage Dublin's tram network LUAS as well as other rail networks. I was required to design and build the front-end for the website.",
-        "link": ""
+        "link": "",
+        "role": "Technical designer"
     },
     {
         "portfolioId": "urban-car-spa",
@@ -229,13 +233,13 @@
             "HTML5",
             "LESS",
             "Javascript",
-            "Grunt, Bower, GIT",
-            "Foundation"
+            "jQuery"
         ],
         "name": "Urban Car Spa",
         "snippet": "Front-end development and Wordpress CMS.",
         "description": "Front-end development and Wordpress CMS.",
-        "link": ""
+        "link": "",
+        "role": "Front-end developer"
     },
     {
         "portfolioId": "bfresh-prototype",
@@ -248,14 +252,13 @@
             "HTML5",
             "SASS",
             "Javascript",
-            "ASP.NET MVC",
-            "Grunt, Bower, GIT",
-            "Foundation"
+            "ASP.NET MVC"
         ],
         "name": "B-Fresh prototype",
         "snippet": "Personal project still in development.",
         "description": "B-fresh is an new online gaming project I am currently working on. It's still in development and hopefully will be complete this year.",
-        "link": ""
+        "link": "",
+        "role": "Design, full stack developer"
     },
     {
         "portfolioId": "joy-of-bingo",
@@ -274,6 +277,7 @@
         "name": "Joy Of Bingo",
         "snippet": "Front-development using Wordpress CMS.",
         "description": "Joy of Bingo is an online bingo community where users cna find out about promotions and competitions. I was required to build the website from PSDs and plug it into Wordpress CMS.",
-        "link": ""
+        "link": "",
+        "role": "Front-end developer"
     }
 ]
