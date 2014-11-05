@@ -14,7 +14,7 @@ $tablet-breakpoint:  ($tablet-container + 20px);
 $desktop-breakpoint: ($desktop-container);
 
 // Default Fonts
-$default-font-family:      sans-serif;
+$default-font-family:       'Open Sans', sans-serif;
 $default-code-font-family: 'courier new', monospace, serif;
 
 // Font Size Defaults
@@ -29,7 +29,7 @@ $default-font-size:   16;
 $default-line-height: 21;
 
 // Default Colours
-$default-font-color:          #ffffff;
-$default-link-color:          #27ae61;
+$default-font-color:          #4e443c;
+$default-link-color:          #f14e32;
 $default-button-color:        #e74b3c;
-$default-button-hover-color:  #f43f3f;
+$default-button-hover-color:  #4e443c;

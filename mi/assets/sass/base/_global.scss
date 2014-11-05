@@ -3,10 +3,10 @@
 // ==========================================================================
 body {
   font-family: $default-font-family;
-  @include font-size($default-font-size);
+  font-size: .85rem;
   @include line-height($default-line-height);
   color: $default-font-color;
-  background-color: #fff;
+  background-color: #f0efe7;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }

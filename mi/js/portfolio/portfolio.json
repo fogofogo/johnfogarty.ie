@@ -55,7 +55,7 @@
             "AngularJS",
             "ASP.NET MVC"
         ],
-        "name": "Viagogo email builder tool",
+        "name": "Viagogo email builder",
         "snippet": "Drag and drop email builder tool using AngularJS and ASP.net.",
         "description": "To assist the marketing team with email campaigns, I built an easy-to-use email builder tool. Users could drag and drop templates, enter text and publish/send HTML emails. Originally I built the tool using javascript and jQuery, but replaced more of this with AngularJS to reduce the amount of DOM dependant hooks and to convert it to a single page application.",
         "link": ""
@@ -178,7 +178,7 @@
             "Javascript",
             "PHP, Perl"
         ],
-        "name": "THE - World University Rankings",
+        "name": "World University Rankings",
         "snippet": "Preparing existing site for new rankings list.",
         "description": "Using Perl and data stored in JSON files I was required to a light weight website that could handle high traffic volumes.",
         "link": ""
@@ -196,7 +196,7 @@
             "Javascript",
             "Classic ASP"
         ],
-        "name": "Bord Failte - Irish Tourism Board",
+        "name": "Irish Tourism Board",
         "snippet": "Design and frontend development for Irish tourism board.",
         "description": "",
         "link": ""
@@ -213,7 +213,7 @@
             "Javascript",
             "Classic ASP"
         ],
-        "name": "Irish Railway Procurement Agency",
+        "name": "Irish Railway Procurement",
         "snippet": "Design and front-end development for RPA.",
         "description": "RPA manage Dublin's tram network LUAS as well as other rail networks. I was required to design and build the front-end for the website.",
         "link": ""

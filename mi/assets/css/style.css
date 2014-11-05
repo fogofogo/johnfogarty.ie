@@ -21,14 +21,17 @@ html {
   font-size: 100%;
 }
 
+a {
+  text-decoration: none;
+}
+
 body {
-  font-family: sans-serif;
-  font-size: 16px;
-  font-size: 1rem;
+  font-family: "Open Sans", sans-serif;
+  font-size: .85rem;
   line-height: 21px;
   line-height: 1.3125rem;
-  color: #ffffff;
-  background-color: #fff;
+  color: #4e443c;
+  background-color: #f0efe7;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
@@ -51,7 +54,7 @@ i, em, .em, dfn, blockquote, q {
 }
 
 a {
-  color: #27ae61;
+  color: #f14e32;
 }
 
 a:hover {
@@ -2584,7 +2587,7 @@ input::-moz-focus-inner {
 }
 
 .button:hover {
-  background-color: #f43f3f;
+  background-color: #4e443c;
 }
 
 .button:active {
@@ -2609,7 +2612,7 @@ input::-moz-focus-inner {
 .button-unstyled {
   font-size: 16px;
   font-size: 1rem;
-  color: #27ae61;
+  color: #f14e32;
   text-decoration: underline;
   border: 0;
   background: transparent;
@@ -3572,7 +3575,7 @@ textarea {
 
 body {
   padding: 30px 0;
-  background: url("../img/bg.png") center top repeat;
+  background: url("../img/body.jpg") center top repeat;
 }
 
 ul.phone-thumbs {
@@ -3605,6 +3608,90 @@ ul.phone-thumbs img:hover {
   border-top: 1px solid #ffffff;
   border-width: 1px 0;
   width: 100%;
+}
+
+a.portfolio {
+  text-transform: uppercase;
+  font-weight: 800;
+  font-size: 18px;
+  letter-spacing: -1px;
+  margin: 10px 0px;
+  display: block;
+}
+
+dl {
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid #3f3f3f;
+  zoom: 1;
+  width: 300px;
+  display: inline;
+}
+
+dl dt {
+  float: left;
+  display: inline;
+  clear: left;
+  width: 100px;
+  font-size: 11px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: gray;
+}
+
+dl > * {
+  padding: 7px 0;
+}
+
+dd {
+  margin: 0 0 0 40px;
+}
+
+dl {
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid #ffffff;
+  zoom: 1;
+  width: 300px;
+  display: inline;
+}
+
+dl ul {
+  margin: 0;
+  list-style: none;
+}
+
+ul, ol {
+  margin: 1em 0;
+  padding: 0 0 0 40px;
+}
+
+dl ul li {
+  display: inline;
+  line-height: 120%;
+}
+
+dl ul li:after {
+  content: ", ";
+}
+
+dl ul {
+  margin: 0;
+  list-style: none;
+}
+
+dl > *:nth-child(1n+3) {
+  border-top: 1px solid #ffffff;
+}
+
+.header-cont .fa {
+  color: #f14e32;
+}
+
+.portfolio-item {
+  margin-bottom: 2em;
+  background: #dededa;
+  padding: 10px;
 }
 
 /*# sourceMappingURL=style.css.map */

@@ -1,7 +1,30 @@
 <div class="container row clear" ng-controller="PortfolioListCtrl">
-    <div class="col col-4 tablet-col-1-2 mobile-full portfolio-item" ng-repeat="portfolioItem in portfolioItems">
+    <div class="col col-4 tablet-col-1-2 mobile-full " ng-repeat="portfolioItem in portfolioItems">
+        <div class="portfolio-item">
         <a href="#/portfolio/{{portfolioItem.portfolioId}}" class="thumb"><img ng-src="{{portfolioItem.defaultImage}}"></a>
-        <a href="#/portfolio/{{portfolioItem.portfolioId}}">{{portfolioItem.name}}</a>
-        <p>{{portfolioItem.snippet}}</p>
+        <a href="#/portfolio/{{portfolioItem.portfolioId}}" class="portfolio">{{portfolioItem.name}}</a>
+
+        <!--<p>{{portfolioItem.snippet}}</p> -->
+
+        <div class="portfolio-details">
+
+            <dl>
+                <dt>Role</dt>
+                <dd>Lead Front-end Developer</dd>
+                <dt>Tech</dt>
+                <dd>
+                    <ul>
+                        <li>HTML5</li>
+                        <li>CSS3</li>
+                        <li>jQuery</li>
+                        <li>PHP5</li>
+                        <li>AJAX</li>
+                        <li>JSON</li>
+                    </ul>
+                </dd>
+            </dl>
+
+        </div>
+        </div>
     </div>
 </div>
